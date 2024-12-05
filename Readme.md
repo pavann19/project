@@ -5,7 +5,7 @@
 - cse
 1. rams
 
-![image](./ramya.jpg)
+![image](./rams.JPG)
 | Header 1 | Header 2 | Header 3 |
 |-----------|----------|----------|
 | Dhayyam   | Evil     | Spirit   |
